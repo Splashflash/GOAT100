@@ -1,5 +1,3 @@
-#Display the output
+#Display the output in descending order
 
 print("New python file")
-
-#Display output in descending order
